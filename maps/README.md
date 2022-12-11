@@ -20,6 +20,9 @@
 * https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_regionais/sociedade_e_economia/integrado_zee_amazonia_legal/Potencial_de_Agressividade_Climatica.pdf
 
 
-#### Terras Indigenas
+### Terras Indigenas
 * https://metadados.snirh.gov.br/geonetwork/srv/api/records/3fa8cc38-79b4-4aa1-8179-bba315baea4b
 * https://terrasindigenas.org.br
+
+### Unidades de Conservação - UC
+* http://mapas.mma.gov.br/i3geo/datadownload.htm
