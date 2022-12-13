@@ -1,2 +1,4 @@
-# amazonia_geoai
-Estudo Geo-espacial do Bioma da Amazônia dentro do conceito de Geo+AI
+
+
+
+<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/header_amazonia.png'></img></a>
