@@ -1,7 +1,7 @@
 
-### Fontes das Informações:
+# Fontes das Informações:
 
-#### Site IBGE Instituto Brasileiro de Geografia e Estatística
+## IBGE - Instituto Brasileiro de Geografia e Estatística
 
 ##### Mapa Limites da Amazônia Legal:
 
@@ -20,9 +20,23 @@
 * https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_regionais/sociedade_e_economia/integrado_zee_amazonia_legal/Potencial_de_Agressividade_Climatica.pdf
 
 
-### Terras Indigenas
+##### Terras Indigenas
 * https://metadados.snirh.gov.br/geonetwork/srv/api/records/3fa8cc38-79b4-4aa1-8179-bba315baea4b
 * https://terrasindigenas.org.br
 
 ### Unidades de Conservação - UC
 * http://mapas.mma.gov.br/i3geo/datadownload.htm
+
+</br></br>
+
+## INPE – Instituto Nacional de Pesquisas Espaciais - [TERRABRASILIS](https://terrabrasilis.dpi.inpe.br/downloads)
+
+##### Amazônia Legal - Shapefile (Estados, Limites, áreas indígenas):
+
+* https://terrabrasilis.dpi.inpe.br/download/dataset/legal-amz-aux/vector/states_legal_amazon.zip
+* https://terrabrasilis.dpi.inpe.br/download/dataset/legal-amz-aux/vector/brazilian_legal_amazon.zip
+* https://terrabrasilis.dpi.inpe.br/download/dataset/legal-amz-aux/vector/municipalities_legal_amazon.zip
+* https://terrabrasilis.dpi.inpe.br/download/dataset/legal-amz-aux/vector/conservation_units_legal_amazon.zip
+* https://terrabrasilis.dpi.inpe.br/download/dataset/legal-amz-aux/vector/indigenous_area_legal_amazon.zip
+  
+  
