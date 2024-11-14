@@ -61,5 +61,6 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 * https://dataserver-coids.inpe.br/ccst/p4cn/4%20Inventario-CN/%C3%81reas%20protegidas/
 * https://dataserver-coids.inpe.br/queimadas/queimadas/area_queimada/AQ1km/shp/
 * https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/mensal/Brasil/
+* https://www.ibge.gov.br/estatisticas/multidominio/genero/22827-censo-demografico-2022.html?edicao=39499&t=resultados
 
 
