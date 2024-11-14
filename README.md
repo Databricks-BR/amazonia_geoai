@@ -27,7 +27,7 @@ A empresa **NATURA**, tem no site de Relacionamento com Investidores, sua Meta d
 
 Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro do tema ambiental,  dimensionando, através da correlação de dados de múltiplas fontes (mapas, imagens de satélite das queimada, limites geográficos das regiões, dados geográficos, etc), a REAL AMPLITUDE dos impactos ambientais das Queimadas e Desmatamentos no bioma da Amazônia, utilizando Modelos de Inteligência Artificial para segmentar e classificar as ocorrências por risco, gerando SCOREs de criticidade e impacto ambiental, em cada MICRORREGIÃO, indexada por funções GEO H3, criando um índice único e uma visão 360 de todas as informações da região mapeada.
 
-<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/tela_mapa1.png' width='600px'></img>
+<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/tela_mapa1.png' width='900px'></img>
 </br></br>
 
 
