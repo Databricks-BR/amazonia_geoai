@@ -27,6 +27,15 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 
 </br></br>
 
+## INSTRUÇÕES para execução
+
+1. Criar uma Git Folder no seu workspace do Databricks apontando para este diretório
+2. Executar o notebook `databricks_notebooks/Amazonia_Geo_AI_v3 - Ingestion` para ingerir os dados nas tabelas bronze e transformá-los em índices H3 na camada silver
+3. Criar um Databricks Apps do tipo "Custom", utilizando os arquivos da pasta `databricks-apps` como "source"
+
+</br></br>
+
+
 ## ARQUITETURA
 
 </br></br>
