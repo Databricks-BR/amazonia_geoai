@@ -10,7 +10,7 @@ O desmatamento desenfreado, a degradação ambiental, as mudanças climáticas e
 
 ## AUTORES
 
-<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/autores.png' width='500px'></img>
+<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/autores.png' width='700px'></img>
 </br></br>
 
 ## RELEVÂNCIA DO TEMA
@@ -40,7 +40,7 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 
 ## ARQUITETURA
 
-<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/arquitetura.png' width='500px'></img>
+<img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/arquitetura.png' width='900px'></img>
 </br></br>
 
 ## CRIATIVIDADE
