@@ -1,6 +1,6 @@
 <img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/logo_amazonia_geo_ai.png'></img></a>
 
-### CONTEXTO
+## CONTEXTO
 
 MAIOR BIOMA DO PLANETA, a **Amazônia** enfrenta desafios complexos e multifacetados que exigem soluções inovadoras e urgentes. </br>
 
@@ -8,12 +8,12 @@ O desmatamento desenfreado, a degradação ambiental, as mudanças climáticas e
 
 </br></br>
 
-### Relevância do TEMA
+## RELEVÂNCIA DO TEMA
 
 É um tema atual e de grande interesse mundial. Relevante também para as grandes empresas listadas na Bolsa B3, nos temas de ESG e Crédito de Carbono.
-</br>
+</br></br>
 A empresa **VALE**, por exemplo, tem um programa chamado “Meta Florestal 2030”, que é um compromisso voluntário e ambicioso estabelecido em 2019, que visa proteger e recuperar 500 mil hectares de florestas no Brasil até 2030.  Deste total, 400 mil hectares serão destinados à proteção de florestas existentes, e 100 mil hectares serão recuperados por meio de sistemas sustentáveis. Este objetivo está alinhado com a Agenda 2030 da ONU e contribui para a meta da Vale de se tornar neutra em carbono até 2050.
-</br>
+</br></br>
 A empresa **NATURA**, tem no site de Relacionamento com Investidores, sua Meta de ESG declarada, de “Proteger a Amazônia", através da expansão da influência na conservação de 1,8 milhão de hectares, em 33 comunidades, para 3 milhões hectares, em 40 comunidades, incentivando esforços coletivos com relação ao desmatamento zero até 2025.
 
 </br></br>
