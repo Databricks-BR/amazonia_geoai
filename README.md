@@ -40,6 +40,12 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 
 </br></br>
 
+## APLICABILIDADE - CASOS DE USO
+
+<img src="https://raw.githubusercontent.com/lcpassuncao/databricks_br_geo/main/images/geo_usecases.jpeg" alt="Casos de Uso" width="800px"/>
+
+</br></br>
+
 ## INSTRUÇÕES para execução
 
 1. Criar uma Git Folder no seu workspace do Databricks apontando para este diretório
@@ -75,5 +81,12 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 * https://dataserver-coids.inpe.br/queimadas/queimadas/area_queimada/AQ1km/shp/
 * https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/mensal/Brasil/
 * https://www.ibge.gov.br/estatisticas/multidominio/genero/22827-censo-demografico-2022.html?edicao=39499&t=resultados
+
+### Databricks BLOGs
+
+* [Building a Geospatial Lakehouse, Part 1](https://www.databricks.com/blog/2021/12/17/building-a-geospatial-lakehouse-part-1.html)
+* [Building a Geospatial Lakehouse, Part 2](https://www.databricks.com/blog/2022/03/28/building-a-geospatial-lakehouse-part-2.html)
+* [Processing Geospatial Data at Scale With Databricks](https://www.databricks.com/blog/2019/12/05/processing-geospatial-data-at-scale-with-databricks.html)
+* [High Scale Geospatial Processing with MOSAIC](https://www.databricks.com/blog/2022/05/02/high-scale-geospatial-processing-with-mosaic.html)
 
 
