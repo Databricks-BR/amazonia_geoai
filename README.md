@@ -36,9 +36,6 @@ Criar uma solução inovadora para Análise e Monitoramento Geo Espacial, dentro
 <img src='https://github.com/Databricks-BR/amazonia_geoai/raw/main/images/arquitetura.png' width='900px'></img>
 </br></br>
 
-## CRIATIVIDADE
-
-</br></br>
 
 ## APLICABILIDADE - CASOS DE USO
 
